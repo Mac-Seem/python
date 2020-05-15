@@ -1,0 +1,11 @@
+text = 'not for you'
+
+text = text.capitalize()
+text = text.replace (' ', "_")
+text = text.replace ('o', '0')
+
+for i in text:
+    pos = 0
+    if x = text.find ('_'):
+        pos +=
+    print (x)
